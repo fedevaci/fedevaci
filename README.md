@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently training as Data Analyst, learning Excel, Python, SQL, Power B.I 📊<br><br>I love to solve problems in a logic and rational way, maybe sometimes I speak better binary than italian💻</p>
+<p align="left">I'm currently training as Data Analyst, learning Excel, Python, SQL, Power B.I 📊<br><br>I love to solve problems in a logic and rational way, maybe sometimes I speak better binary than italian💻<br>I can tell you who you are, just give me data and unit🔢</p>
 
 ###
 
